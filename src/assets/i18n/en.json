@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "newsfeed": "NEWSFEED",
+        "search news": "Search news...",
+        "no image": "NO IMAGE",
+        "news details": "News Details",
+        "author": "Author : ",
+        "published": "Published At : ",
+        "click here": "Click here to see live updates!",
+        "settings": "SETTINGS",
+        "select language": "Select a Language",
+        "loading more": "Tap here to load more!",
+        "rate limited": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+    }
+}

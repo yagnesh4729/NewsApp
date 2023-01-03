@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "newsfeed": "FIL D'ACTUALITÉ",
+        "search news": "Rechercher des actualités...",
+        "no image": "PAS D'IMAGE",
+        "news details": "Détails de l'actualité",
+        "author": "Auteure : ",
+        "published": "Publié à : ",
+        "click here": "Cliquez ici pour voir les mises à jour en direct !",
+        "settings": "RÉGLAGES",
+        "select language": "Sélectionnez une langue",
+        "loading more": "Appuyez ici pour en charger plus !",
+        "rate limited": "Vous avez fait trop de demandes récemment. Les comptes de développeur sont limités à 100 requêtes sur une période de 24 heures (50 requêtes disponibles toutes les 12 heures). Veuillez passer à un forfait payant si vous avez besoin de plus de demandes."
+    }
+}
