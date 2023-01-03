@@ -40,6 +40,11 @@ local.properties
 node_modules/
 npm-debug.log
 
+# CocoaPods
+Podfile.lock
+Pods
+*.xcworkspace
+
 # BUCK
 buck-out/
 \.buckd/
